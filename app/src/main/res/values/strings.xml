@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MealAFriend</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gibberish">rewrwe ewrwer ewrwer ewrwer werwer ewrew rwerwer werwe rewr werwer ewrwe ewrwer werwe ewrwe</string>
+    <string name="booking_message_template">Hi, i\'m Jojn, and i\'d like to book your meal (Sukuma wiki and Ugali). I\'m looking forward to hearing from you!</string>
+    <string name="card_debit_info">Your card won\'t be debited until the host has confirmed your reservation</string>
+</resources>
